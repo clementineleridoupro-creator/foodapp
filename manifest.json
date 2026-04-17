@@ -1,0 +1,11 @@
+{
+  "name": "Shelf — Food & Fitness",
+  "short_name": "Shelf",
+  "description": "Smart pantry tracker with barcode scanning and AI meal planning",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fafaf8",
+  "theme_color": "#fafaf8",
+  "orientation": "portrait",
+  "icons": [{"src": "icon.svg","sizes": "any","type": "image/svg+xml","purpose": "any maskable"}]
+}
